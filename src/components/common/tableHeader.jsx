@@ -33,7 +33,8 @@ class TableHeader extends Component {
             </th>
             )}
             </tr>
-        </thead>);
+        </thead>
+        );
     }
 }
  

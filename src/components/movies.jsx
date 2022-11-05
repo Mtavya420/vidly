@@ -75,7 +75,7 @@ class Movies extends Component {
         const {
             pageSize, 
             currentPage,
-            sortColumn,
+            sortColumn
         } = this.state;
         
 
